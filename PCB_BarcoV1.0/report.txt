@@ -1,0 +1,19 @@
+Información: Checking netlist symbol footprint "J1:/60B9BEF3:TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal".
+Información: Checking netlist symbol footprint "Y1:/60B92542:Crystal:Crystal_HC49-4H_Vertical".
+Información: Checking netlist symbol footprint "U3:/60B7981D:Package_DIP:DIP-28_W7.62mm".
+Información: Checking netlist symbol footprint "U2:/60B07A03:Package_TO_SOT_SMD:SOT-223-3_TabPin2".
+Información: Checking netlist symbol footprint "U1:/60B08B95:Package_TO_SOT_SMD:SOT-223-3_TabPin2".
+Información: Checking netlist symbol footprint "SW1:/60C895E8:Button_Switch_THT:SW_PUSH_6mm_H5mm".
+Información: Checking netlist symbol footprint "R1:/60C85715:Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal".
+Información: Checking netlist symbol footprint "J4:/60CA2C0F:Connector_PinSocket_2.00mm:PinSocket_2x04_P2.00mm_Vertical".
+Información: Checking netlist symbol footprint "J3:/60CF4BA0:Connector_PinSocket_2.00mm:PinSocket_1x03_P2.00mm_Vertical".
+Información: Checking netlist symbol footprint "J2:/60D07454:Connector_PinSocket_2.00mm:PinSocket_1x03_P2.00mm_Vertical".
+Información: Checking netlist symbol footprint "D1:/60C0918B:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal".
+Información: Checking netlist symbol footprint "C7:/60B9B430:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm".
+Información: Checking netlist symbol footprint "C6:/60B980F9:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm".
+Información: Checking netlist symbol footprint "C5:/60CAEE1E:Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm".
+Información: Checking netlist symbol footprint "C4:/60C403EC:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm".
+Información: Checking netlist symbol footprint "C3:/60B0BA73:Capacitor_THT:CP_Radial_Tantal_D10.5mm_P5.00mm".
+Información: Checking netlist symbol footprint "C2:/60B8D440:Capacitor_THT:CP_Radial_Tantal_D10.5mm_P5.00mm".
+Información: Checking netlist symbol footprint "C1:/60B0AC10:Capacitor_SMD:CP_Elec_5x5.4".
+Aviso: Footprint of C5 changed: board footprint "Capacitor_THT:C_Disc_D11.0mm_W5.0mm_P5.00mm", netlist footprint "Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm".
